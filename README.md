@@ -1,10 +1,17 @@
 # SoftwareFundamentals
+
 basic knowledge required in software industry
 
-1. GIT commands
+1. SOLID principles
 
-2. SOLID principles
+2. Compilation Steps
 
-3. Docker
+3. GIT commands
 
-4. 
+4. Docker
+
+5. Microsoft Tools Tips - Excel, PowerPoint
+
+6. Interprocess Communication - IPC, IIC
+
+
