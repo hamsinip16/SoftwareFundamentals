@@ -5,6 +5,6 @@ basic knowledge required in software industry
 
 2. SOLID principles
 
-#3. Docker
+>> 3. Docker
 
 4. 
