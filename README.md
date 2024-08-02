@@ -2,9 +2,9 @@
 
 basic knowledge required in software industry
 
-1. SOLID principles
+1.Compilation Steps
 
-2. Compilation Steps
+2. .astcz files
 
 3. GIT commands
 
